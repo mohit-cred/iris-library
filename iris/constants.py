@@ -1,2 +1,2 @@
 AppName = "mlflow-test"
-InputColumn = "input"
+ModelInputColumns = "0,1,2,3"
