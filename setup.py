@@ -10,7 +10,7 @@ with pathlib.Path('./iris/requirements.txt').open() as requirements_txt:
     ]
 
 setup(name='iris-library',
-      version='0.0.2',
+      version='0.0.3',
       description='This is a test package.',
       author='Mohit Agrawal',
       author_email='mohit.agrawal@cred.club',
